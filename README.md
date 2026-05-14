@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kishan-parmar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kishan.jsk@Gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:kishan.jsk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://youtube.com/@kishanparmar2696"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="https://stackoverflow.com/users/kishan-jsk"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
   <img src="https://komarev.com/ghpvc/?username=dd-kishanp&style=for-the-badge&color=0078d4" alt="Profile Views"/>
@@ -138,7 +138,7 @@ I'm a **Project Lead & DevOps Engineer** at [MagnusMinds IT Solutions](https://m
 
 <p align="center">
   <a href="https://linkedin.com/in/kishan-parmar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:kishan.jsk@Gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+  <a href="mailto:kishan.jsk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
   <a href="https://facebook.com/ERKishan.jsk"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/></a>
   <a href="https://instagram.com/kishanjsk"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
   <a href="https://stackoverflow.com/users/kishan-jsk"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow"/></a>
